@@ -49,25 +49,24 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 
 ### KDD 2023
 
-DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
-
-Precursor-of-Anomaly Detection for Irregular Time Series
+- [x] DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
+- [x] Precursor-of-Anomaly Detection for Irregular Time Series
 
 Transferable Graph Structure Learning for Graph-Based Traffic Forecasting Across Cities
 
-TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
+- [x] TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
 
 Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting
 
 FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework
 
-When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting
+- [x] When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting
 
 Warpformer: A Multi-Scale Modeling Approach for Irregular Clinical Time Series
 
-WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis
+- [x] WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis
 
-Source-Free Domain Adaptation with Temporal Imputation for Time Series Data
+- [x] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data
 
 Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders
 
@@ -77,29 +76,28 @@ Imputation-based Time-Series Anomaly Detection with Conditional Weight-Increment
 
 An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series
 
-Parameter-free Spikelet: Discovering Different Length and Warped Time Series Motifs using an Adaptive Time Series Representation
-
-DoubleAdapt: A Meta-Learning Approach to Incremental Learning for Stock Trend Forecasting
+- [x] Parameter-free Spikelet: Discovering Different Length and Warped Time Series Motifs using an Adaptive Time Series Representation
+- [x] DoubleAdapt: A Meta-Learning Approach to Incremental Learning for Stock Trend Forecasting
 
 Web-Based Long-Term Spine Treatment Outcome Forecasting
 
 ### ICML 2023
 
-Domain Adaptation for Time Series Under Feature and Label Shifts
+- [x] Domain Adaptation for Time Series Under Feature and Label Shifts
 
 Learning Perturbations to Explain Time Series Predictions
 
-Non-autoregressive Conditional Diffusion Models for Time Series Prediction
+- [x] Non-autoregressive Conditional Diffusion Models for Time Series Prediction
 
 Probabilistic Imputation for Time-series Classification with Missing Data
 
 Provably Convergent Schrödinger Bridge with Applications to Probabilistic Time Series Imputation
 
-Learning Deep Time-index Models for Time Series Forecasting
+- [x] Learning Deep Time-index Models for Time Series Forecasting
 
 Self-Interpretable Time Series Prediction with Counterfactual Explanations
 
-Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series
+- [x] Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series
 
 Neural Stochastic Differential Games for Time-series Analysis
 
@@ -111,7 +109,7 @@ Sequential Monte Carlo Learning for Time Series Structure Discovery
 
 Sequential Multi-Dimensional Self-Supervised Learning for Clinical Time Series
 
-Feature Programming for Multivariate Time Series Prediction
+- [x] Feature Programming for Multivariate Time Series Prediction
 
 SOM-CPC: Unsupervised Contrastive Learning with Self-Organizing Maps for Structured Representations of High-Rate Time Series
 
@@ -123,7 +121,7 @@ Sequential Predictive Conformal Inference for Time Series
 
 Regions of Reliability in the Evaluation of Multivariate Probabilistic Forecasts
 
-Regression with Sensor Data Containing Incomplete Observations
+- [x] Regression with Sensor Data Containing Incomplete Observations
 
 ### IJCAI 2023
 
@@ -131,13 +129,13 @@ CTW: Confident Time-Warping for Time-Series Label-Noise Learning
 
 Latent Processes Identification From Multi-View Time Series
 
-SMARTformer: Semi-Autoregressive Transformer with Efficient Integrated Window Attention for Long Time Series Forecasting
+- [x] SMARTformer: Semi-Autoregressive Transformer with Efficient Integrated Window Attention for Long Time Series Forecasting
 
 DeLELSTM: Decomposition-based Linear Explainable LSTM to Capture Instantaneous and Long-term Effects in Time Series
 
 Learning Gaussian Mixture Representations for Tensor Time Series Forecasting
 
-pTSE: A Multi-model Ensemble Method for Probabilistic Time Series Forecasting
+- [x] pTSE: A Multi-model Ensemble Method for Probabilistic Time Series Forecasting
 
 Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data
 
@@ -211,9 +209,9 @@ Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Fore
 
 Dynamical systems embedding with a physics-informed convolutional network
 
-Contrastive Learning for Unsupervised Domain Adaptation of Time Series
+- [x] Contrastive Learning for Unsupervised Domain Adaptation of Time Series
 
-Out-of-distribution Representation Learning for Time Series Classification 
+- [x] Out-of-distribution Representation Learning for Time Series Classification 
 
 A Time Series is Worth 64 Words: Long-term Forecasting with Transformers
 
@@ -233,7 +231,7 @@ Learning Fast and Slow for Time Series Forecasting
 
 Recursive Time Series Data Augmentation 
 
-Koopman Neural Operator Forecaster for Time-series with Temporal Distributional Shifts
+- [x] Koopman Neural Operator Forecaster for Time-series with Temporal Distributional Shifts
 
 Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms 
 
@@ -263,7 +261,7 @@ WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multi
 
 Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning
 
-SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation
+- [x] SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation
 
 Forecasting with Sparse but Informative Variables: A Case Study in Predicting Blood Glucose
 
@@ -277,13 +275,13 @@ Are Transformers Effective for Time Series Forecasting?
 
 Supervised Contrastive Few-shot Learning for High-frequency Time Series
 
-Hierarchical Contrastive Learning for Temporal Point Processes
+- [x] Hierarchical Contrastive Learning for Temporal Point Processes
 
 Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs: Application to Seizure Analysis
 
 SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification
 
-Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting
+- [x] Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting
 
 Spatio-Temporal Meta-Graph Learning for Traffic Forecasting
 
@@ -291,7 +289,7 @@ WSiP: Wave Superposition Inspired Pooling for Dynamic Interactions-Aware Traject
 
 PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability
 
-N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting
+- [x] N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting
 
 Detecting Multivariate Time Series Anomalies with Zero Known Label
 
@@ -299,7 +297,7 @@ Learning Dynamic Temporal Relations with Continuous Graph for Multivariate Time 
 
 DyCVAE: Learning Dynamic Causal Factors for Non-stationary Series Domain Generalization
 
-InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting
+- [x] InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting
 
 SLOTH: Structured Learning and Task-based Optimization for Time Series Forecasting on Hierarchies
 
@@ -355,7 +353,7 @@ Spatiotemporal Contextual Consistency Network for Precipitation Nowcasting
 
 ### CIKM 2022
 
-AutoForecast: Automatic Time-Series Forecasting Model Selection
+- [x] AutoForecast: Automatic Time-Series Forecasting Model Selection
 
 Deep Extreme Mixture Model for Time Series Forecasting
 
@@ -379,7 +377,7 @@ Causal Disentanglement for Time Series
 
 BILCO: An Efficient Algorithm for Joint Alignment of Time Series
 
-Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting
+- [x] Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting
 
 GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks
 
@@ -397,7 +395,7 @@ FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecas
 
 Dynamic Sparse Network for Time Series Classification: Learning What to “See”
 
-Learning Latent Seasonal-Trend Representations for Time Series Forecasting
+- [x] Learning Latent Seasonal-Trend Representations for Time Series Forecasting
 
 Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks
 
@@ -417,7 +415,7 @@ Task-Aware Reconstruction for Time-Series Transformer
 
 Multi-Variate Time Series Forecasting on Variable Subsets
 
-ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences
+- [x] ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences
 
 MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting
 
@@ -433,7 +431,7 @@ Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Serie
 
 Learning Differential Operators for Interpretable Time Series Modeling
 
-Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction
+- [x] Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction
 
 Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
 
@@ -565,7 +563,7 @@ Using time-series privileged information for provably efficient learning of pred
 
 Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting 
 
-Decoupling Local and Global Representations of Time Series 
+- [x] Decoupling Local and Global Representations of Time Series 
 
 Amortised Likelihood-free Inference for Expensive Time-series Simulators with Signatured Ratio Estimation 
 
@@ -589,7 +587,7 @@ PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series
 
 Coherence-based Label Propagation over Time Series for Accelerated Active Learning
 
-Huber Additive Models for Non-stationary Time Series Analysis
+- [x] Huber Additive Models for Non-stationary Time Series Analysis
 
 Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift
     
@@ -603,7 +601,7 @@ Omni-Scale CNNs: a simple and effective kernel size configuration for time serie
 
 Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks
 
-T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis
+- [x] T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis
 
 Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification
 
@@ -691,7 +689,7 @@ Multi-way Time Series Join on Multi-length Patterns
 
 Ultra fast warping window optimization for Dynamic Time Warping
 
-Disentangled Deep Multivariate Hawkes Process for Learning Event Sequences
+- [x] Disentangled Deep Multivariate Hawkes Process for Learning Event Sequences
 
 Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting
 
@@ -773,7 +771,7 @@ Coresets for Time Series Clustering
     
 MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data
     
-Adjusting for Autocorrelated Errors in Neural Networks for Time Series
+- [x] Adjusting for Autocorrelated Errors in Neural Networks for Time Series
     
 Deep Explicit Duration Switching Models for Time Series
 
@@ -789,7 +787,7 @@ Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Syn
 
 ### KDD 2021
 
-MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification 
+- [x] MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification 
 
 Deep Learning Embeddings for Data Series Similarity Search 
 
@@ -959,7 +957,7 @@ Unsupervised Representation Learning for Time Series with Temporal Neighborhood 
 
 Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows
 
-Generative Time-series Modeling with Fourier Flows
+- [x] Generative Time-series Modeling with Fourier Flows
 
 Discrete Graph Structure Learning for Forecasting Multiple Time Series
 
@@ -973,7 +971,7 @@ Trajectory Prediction using Equivariant Continuous Convolution
 
 ### AAAI 2021
 
-Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting
+- [x] Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting
 
 Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting
 
