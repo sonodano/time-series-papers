@@ -6,9 +6,10 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 <img width="700" src="word-cloud.png" alt="overview" />
 </p>
 
-- [2023](#2023)
+- [Time Series AI Papers](#time-series-ai-papers)
+  - [2023](#2023)
     - [KDD 2023](#kdd-2023)
-    - [ICML 2023](#icml-2023) 
+    - [ICML 2023](#icml-2023)
     - [IJCAI 2023](#ijcai-2023)
     - [WWW 2023](#www-2023)
     - [SDM 2023](#sdm-2023)
@@ -16,7 +17,7 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [ICLR 2023](#iclr-2023)
     - [AAAI 2023](#aaai-2023)
     - [WSDM 2023](#wsdm-2023)
-- [2022](#2022)
+  - [2022](#2022)
     - [ICDM 2022](#icdm-2022)
     - [CIKM 2022](#cikm-2022)
     - [NeurIPS 2022](#neurips-2022)
@@ -30,12 +31,12 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
     - [ICLR 2022](#iclr-2022)
     - [AAAI 2022](#aaai-2022)
     - [WSDM 2022](#wsdm-2022)
-- [2021](#2021)
+  - [2021](#2021)
     - [ICDM 2021](#icdm-2021)
     - [CIKM 2021](#cikm-2021)
     - [NeurIPS 2021](#neurips-2021)
     - [KDD 2021](#kdd-2021)
-    - [ICML 2021](#icml-2021) 
+    - [ICML 2021](#icml-2021)
     - [IJCAI 2021](#ijcai-2021)
     - [WWW 2021](#www-2021)
     - [SDM 2021](#sdm-2021)
@@ -389,7 +390,7 @@ Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based S
 
 WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting
 
-SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction
+- [x] SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction
 
 FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting
 
@@ -681,7 +682,7 @@ Towards Interpretability and Personalization: A Predictive Framework for Clinica
 
 Towards Generating Real-World Time Series Data
 
-Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions
+- [x] Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions
 
 CASPITA: Mining Statistically Significant Paths in Time Series Data from an Unknown Network
 
