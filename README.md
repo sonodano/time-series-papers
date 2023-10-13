@@ -66,7 +66,6 @@ FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification
 Warpformer: A Multi-Scale Modeling Approach for Irregular Clinical Time Series
 
 - [x] WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis
-
 - [x] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data
 
 Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders
@@ -211,7 +210,6 @@ Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Fore
 Dynamical systems embedding with a physics-informed convolutional network
 
 - [x] Contrastive Learning for Unsupervised Domain Adaptation of Time Series
-
 - [x] Out-of-distribution Representation Learning for Time Series Classification 
 
 A Time Series is Worth 64 Words: Long-term Forecasting with Transformers
@@ -228,7 +226,7 @@ Temporal Dependencies in Feature Importance for Time Series Prediction
 
 Effectively Modeling Time Series with Simple Discrete State Spaces 
 
-Learning Fast and Slow for Time Series Forecasting 
+- [x] Learning Fast and Slow for Online Time Series Forecasting 
 
 Recursive Time Series Data Augmentation 
 
@@ -272,7 +270,7 @@ AEC-GAN: Adversarial Error Correction GANs for Auto-Regressive Long Time-series 
 
 An Extreme-Adaptive Time Series Prediction Model Based on Probability-Enhanced LSTM Neural Networks
 
-Are Transformers Effective for Time Series Forecasting?
+- [x] Are Transformers Effective for Time Series Forecasting?
 
 Supervised Contrastive Few-shot Learning for High-frequency Time Series
 
@@ -306,7 +304,7 @@ Estimating Treatment Effects from Irregular Time Series Observations with Hidden
 
 PrimeNet: Pre-Training for Irregular Multivariate Time Series
 
-Time Series Contrastive Learning with Information-Aware Augmentations
+- Time Series Contrastive Learning with Information-Aware Augmentations
 
 Black-box Adversarial Attack on Time Series Classification
 
@@ -462,13 +460,12 @@ Learning of Cluster-based Feature Importance for Electronic Health Record Time-s
 
 Modeling Irregular Time Series with Continuous Recurrent Units
 
-Domain Adaptation for Time Series Forecasting via Attention Sharing
-
-Utilizing Expert Features for Contrastive Learning of Time-Series Representations
+- [x] Domain Adaptation for Time Series Forecasting via Attention Sharing
+- [x] Utilizing Expert Features for Contrastive Learning of Time-Series Representations
 
 Reconstructing nonlinear dynamical systems from multi-modal time series
 
-Adaptive Conformal Predictions for Time Series
+- [x] Adaptive Conformal Predictions for Time Series
 
 TACTiS: Transformer-Attentional Copulas for Time Series
 
@@ -589,10 +586,8 @@ PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series
 Coherence-based Label Propagation over Time Series for Accelerated Active Learning
 
 - [x] Huber Additive Models for Non-stationary Time Series Analysis
-
-Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift
-    
-CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting
+- [x] Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift
+- [x] CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting
 
 Guided Network for Irregularly Sampled Multivariate Time Series
 
@@ -624,7 +619,7 @@ CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecastin
 
 Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting
 
-TS2Vec: Towards Universal Representation of Time Series
+- [x] TS2Vec: Towards Universal Representation of Time Series
 
 I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series Analysis and Embedding
 
@@ -858,7 +853,7 @@ TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sam
 
 Time-Aware Multi-Scale RNNs for Time Series Modeling
 
-Time-Series Representation Learning via Temporal and Contextual Contrasting
+- [x] Time-Series Representation Learning via Temporal and Contextual Contrasting
 
 Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation
 
@@ -984,11 +979,11 @@ Correlative Channel-Aware Fusion for Multi-View Time Series Classification
 
 Learnable Dynamic Temporal Pooling for Time Series Classification
 
-Time Series Domain Adaptation via Sparse Associative Structure Alignment
+- [x] Time Series Domain Adaptation via Sparse Associative Structure Alignment
 
 Learning Representations for Incomplete Time Series Clustering
 
-Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting
+- [x] Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting
 
 Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
 
@@ -998,7 +993,7 @@ Time Series Anomaly Detection with Multiresolution Ensemble Decoding
 
 Joint-Label Learning by Dual Augmentation for Time Series Classification
 
-Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+- [x] Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
 
 Generative Semi-Supervised Learning for Multivariate Time Series Imputation
 
