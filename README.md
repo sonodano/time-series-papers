@@ -374,8 +374,7 @@ Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Cons
 
 Causal Disentanglement for Time Series
 
-BILCO: An Efficient Algorithm for Joint Alignment of Time Series
-
+- [x] BILCO: An Efficient Algorithm for Joint Alignment of Time Series
 - [x] Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting
 
 GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks
@@ -386,8 +385,7 @@ Efficient learning of nonlinear prediction models with time-series privileged in
 
 Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting
 
-WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting
-
+- [x] WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting
 - [x] SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction
 
 FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting
@@ -402,7 +400,7 @@ Earthformer: Exploring Space-Time Transformers for Earth System Forecasting
 
 C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting
 
-Meta-Learning Dynamics Forecasting Using Task Inference
+- [x] Meta-Learning Dynamics Forecasting Using Task Inference
 
 AutoST: Towards the Universal Modeling of Spatio-temporal Sequences
 
@@ -452,7 +450,7 @@ Human mobility prediction with causal and spatial-constrained multi-task network
 
 Closed-Form Diffeomorphic Transformations for Time Series Alignment
 
-FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting
+- [x] FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting
 
 Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection
 
