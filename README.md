@@ -132,15 +132,13 @@ Unleashing the Power of Shared Label Structures for Human Activity Recognition
 
 ### NeurIPS 2023
 
-One Fits All: Power General Time Series Analysis by Pretrained LM
-
-MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection
-
-OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling
+- [x] One Fits All: Power General Time Series Analysis by Pretrained LM
+- [x] MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection
+- [x] OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling
 
 Scale-teaching: Robust Multi-scale Training for Time Series Classification with Noisy Labels
 
-Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective
+- [x] Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective
 
 Causal Discovery from Subsampled Time Series with Proxy Variables
 
@@ -152,25 +150,22 @@ CrossGNN: Confronting Noisy Multivariate Time Series Via Cross Interaction Refin
 
 Time Series Kernels based on Nonlinear Vector AutoRegressive Delay Embeddings
 
-WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction
-
-Frequency-domain MLPs are More Effective Learners in Time Series Forecasting
+- [x] WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction
+- [x] Frequency-domain MLPs are More Effective Learners in Time Series Forecasting
 
 ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling
 
-Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors
-
-Conformal Scorecasting: Anticipatory Uncertainty Quantification for Distribution Shift in Time Series
-
-Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection
+- [x] Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors
+- [x] Conformal PID Control for Time Series Prediction, ~Conformal Scorecasting: Anticipatory Uncertainty Quantification for Distribution Shift in Time Series~
+- [x] Drift doesn't Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection
 
 Sparse Deep Learning for Time Series Data: Theory and Applications
 
-Large Language Models Are Zero Shot Time Series Forecasters
+- [x] Large Language Models Are Zero Shot Time Series Forecasters
 
 Sparse Graph Learning from Spatiotemporal Time Series
 
-BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis
+- [x] BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis
 
 WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting
 
@@ -188,10 +183,7 @@ Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Cont
 
 ### KDD 2023
 
-<<<<<<< HEAD
-- [x] DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
-- [x] Precursor-of-Anomaly Detection for Irregular Time Series
-=======
+
 Generative Causal Interpretation Model for Spatio-Temporal Representation Learning
 
 Localised Adaptive Spatial-Temporal Graph Neural Network
@@ -199,11 +191,8 @@ Localised Adaptive Spatial-Temporal Graph Neural Network
 Maintaining the status quo-Capturing invariant relations for OOD spatiotemporal learning
 
 Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction
-
-DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
-
-Precursor-of-Anomaly Detection for Irregular Time Series
->>>>>>> upstream/main
+- [x] DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection
+- [x] Precursor-of-Anomaly Detection for Irregular Time Series
 
 Transferable Graph Structure Learning for Graph-Based Traffic Forecasting Across Cities
 
