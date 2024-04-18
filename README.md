@@ -68,7 +68,7 @@ CARPG: Cross-City Knowledge Transfer for Traffic Accident Prediction via Attenti
 
 GBTTE: Graph Attention Network Based Bus Travel Time Estimation
 
-Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank
+- [x] Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank
 
 Follow the Will of the Market: A Context-Informed Drift-Aware Method for Stock Prediction
 
