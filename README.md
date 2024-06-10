@@ -124,17 +124,17 @@ $S^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Fo
 
 Probabilistic time series modeling with decomposable denoising diffusion model
 
-MOMENT: A Family of Open Time-series Foundation Models
+- [x] MOMENT: A Family of Open Time-series Foundation Models
 
 TimeX++: Learning Time-Series Explanations with Information Bottleneck
 
-A decoder-only foundation model for time-series forecasting
+- [x] A decoder-only foundation model for time-series forecasting
 
 Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning
 
 Conformal prediction for multi-dimensional time-series
 
-TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling
+- [x] TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling
 
 Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
 
@@ -306,7 +306,7 @@ MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Proc
 
 Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach
 
-Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators
+- [x] Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators
 
 STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction
 
@@ -314,7 +314,7 @@ Periodicity Decoupling Framework for Long-term Series Forecasting
 
 Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values
 
-DAM: A Foundation Model for Forecasting
+- [x] DAM: A Foundation Model for Forecasting
 
 Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data
 
