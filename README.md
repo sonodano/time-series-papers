@@ -78,7 +78,7 @@ SparseTSF: Modeling Long-term Time Series Forecasting with *1k* Parameters
 
 Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Series
 
-Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling
+- [x] Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling
 
 Bayesian Online Multivariate Time Series Imputation with Functional Decomposition
 
@@ -216,7 +216,7 @@ Analysis of Causal and Non-Causal Convolution Networks for Time Series Classific
 
 Better Batch for Deep Probabilistic Time Series Forecasting
 
-Fitting ARMA Time Series Models without Identification: A Proximal Approach
+- [x] Fitting ARMA Time Series Models without Identification: A Proximal Approach
 
 Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees
 
