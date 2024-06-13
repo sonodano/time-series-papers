@@ -500,7 +500,7 @@ Causal Discovery from Subsampled Time Series with Proxy Variables
 
 Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting
 
-What if We Enrich day-ahead Solar Irradiance Time Series Forecasting with Spatio-Temporal Context?
+Improving Day-Ahead Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context
 
 CrossGNN: Confronting Noisy Multivariate Time Series Via Cross Interaction Refinement
 
