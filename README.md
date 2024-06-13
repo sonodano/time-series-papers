@@ -78,8 +78,6 @@ SparseTSF: Modeling Long-term Time Series Forecasting with *1k* Parameters
 
 Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Series
 
-- [x] Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling
-
 Bayesian Online Multivariate Time Series Imputation with Functional Decomposition
 
 CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables
@@ -124,19 +122,20 @@ $S^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Fo
 
 Probabilistic time series modeling with decomposable denoising diffusion model
 
-- [x] MOMENT: A Family of Open Time-series Foundation Models
 
 TimeX++: Learning Time-Series Explanations with Information Bottleneck
-
-- [x] A decoder-only foundation model for time-series forecasting
 
 Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning
 
 Conformal prediction for multi-dimensional time-series
 
-- [x] TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling
-
 Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
+
+- [x] Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling
+- [x] A decoder-only foundation model for time-series forecasting
+- [x] TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling
+- [x] MOMENT: A Family of Open Time-series Foundation Models
+
 
 ### IJCAI 2024
 
