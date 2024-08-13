@@ -62,13 +62,8 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 
 ### ICML 2024
 
-Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning
 
 Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting
-
-MF-CLR: Multi-Frequency Contrastive Learning Representation for Time Series
-
-Transformers with Loss Shaping Constraints for Long-Term Time Series Forecasting
 
 CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series
 
@@ -80,13 +75,9 @@ Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Ser
 
 Bayesian Online Multivariate Time Series Imputation with Functional Decomposition
 
-CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables
-
 Position Paper: What Can Large Language Models Tell Us about Time Series Analysis
 
 Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization
-
-UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis
 
 Position Paper: Quo Vadis, Unsupervised Time Series Anomaly Detection?
 
@@ -108,8 +99,6 @@ Time Weaver: A Conditional Time Series Generation Model
 
 SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting
 
-Unified Training of Universal Time Series Forecasting Transformers
-
 Time Series Diffusion in the Frequency Domain
 
 Reservoir Computing for Short High-Dimensional Time Series: an Application to SARS-CoV-2 Hospitalization Forecast
@@ -122,15 +111,19 @@ $S^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Fo
 
 Probabilistic time series modeling with decomposable denoising diffusion model
 
-
 TimeX++: Learning Time-Series Explanations with Information Bottleneck
 
 Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning
 
 Conformal prediction for multi-dimensional time-series
 
-Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
-
+- [x] Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning
+- [x] Unified Training of Universal Time Series Forecasting Transformers
+- [x] Efficient and Effective Time-Series Forecasting with Spiking Neural Networks
+- [x] UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis
+- [x] CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables
+- [x] MF-CLR: Multi-Frequency Contrastive Learning Representation for Time Series
+- [x] Transformers with Loss Shaping Constraints for Long-Term Time Series Forecasting
 - [x] Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling
 - [x] A decoder-only foundation model for time-series forecasting
 - [x] TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling
@@ -275,7 +268,7 @@ Learning to Embed Time Series Patches Independently
 
 TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series
 
-T-Rep: Representation Learning for Time Series using Time-Embeddings
+- [x] T-Rep: Representation Learning for Time Series using Time-Embeddings
 
 Parametric Augmentation for Time Series Contrastive Learning
 
@@ -708,7 +701,7 @@ Coherent Probabilistic Forecasting of Temporal Hierarchies
 
 ### ICLR 2023
 
-Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting
+- [x] Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting
 
 MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting
 
@@ -1264,7 +1257,7 @@ Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Appro
 
 ### NeurIPS 2021
 
-Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
+- [x] Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
     
 Dynamical Wasserstein Barycenters for Time-series Modeling
     
