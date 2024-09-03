@@ -65,17 +65,16 @@ A list of up-to-date time-series papers in AI venues, tracking the following con
 
 Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting
 
-CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series
+- [x] CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series
 
 A Vector Quantization Pretraining Method for EEG Time Series with Random Projection and Phase Alignment
 
-SparseTSF: Modeling Long-term Time Series Forecasting with *1k* Parameters
+- [x] SparseTSF: Modeling Long-term Time Series Forecasting with *1k* Parameters
 
 Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Series
 
-Bayesian Online Multivariate Time Series Imputation with Functional Decomposition
-
-Position Paper: What Can Large Language Models Tell Us about Time Series Analysis
+- [x] Bayesian Online Multivariate Time Series Imputation with Functional Decomposition
+- [x] Position Paper: What Can Large Language Models Tell Us about Time Series Analysis
 
 Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization
 
@@ -83,9 +82,8 @@ Position Paper: Quo Vadis, Unsupervised Time Series Anomaly Detection?
 
 Discovering Mixtures of Structural Causal Models from Time Series Data
 
-Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention
-
-An Analysis of Linear Time Series Forecasting Models
+- [x] SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention
+- [x] An Analysis of Linear Time Series Forecasting Models
 
 TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning
 
@@ -93,7 +91,7 @@ TSLANet: Rethinking Transformers for Time Series Representation Learning
 
 An Empirical Examination of Balancing Strategy for Counterfactual Estimation on Time Series
 
-Timer: Transformers for Time Series at Scale
+- [x] Timer: Transformers for Time Series at Scale
 
 Time Weaver: A Conditional Time Series Generation Model
 
@@ -113,7 +111,7 @@ Probabilistic time series modeling with decomposable denoising diffusion model
 
 TimeX++: Learning Time-Series Explanations with Information Bottleneck
 
-Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning
+- [x] Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning
 
 Conformal prediction for multi-dimensional time-series
 
